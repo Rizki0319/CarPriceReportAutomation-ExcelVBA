@@ -27,6 +27,3 @@ Raw Data → Create Pivot → Create Chart → Validation → Export Report
 ## Tools
 - Microsoft Excel
 - VBA (Visual Basic for Applications)
-
-## Author
-Muhammad Rizki
