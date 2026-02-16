@@ -20,6 +20,7 @@ The system creates pivot tables, charts, and exports reports automatically.
 - 250 rows dataset
 - Car price data (2022)
 - Average price analysis per manufacturer
+- Source : https://www.kaggle.com/datasets/ayeshasiddiqa123/cars-pre
 
 ## Workflow
 Raw Data → Create Pivot → Create Chart → Validation → Export Report
@@ -27,3 +28,4 @@ Raw Data → Create Pivot → Create Chart → Validation → Export Report
 ## Tools
 - Microsoft Excel
 - VBA (Visual Basic for Applications)
+
